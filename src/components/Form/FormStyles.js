@@ -110,9 +110,9 @@ export const FormButton = styled.button`
 	background: none;
 	margin-top: 1.5rem;
 	white-space: nowrap;
-	/* color: #fff; */
 	outline: none;
 	width: 100%;
+	color: black;
 	font-size: 1.4rem;
 	padding: 5px 15px;
 	border: 2px solid black;

@@ -12,7 +12,7 @@ import {
 const Hero = () => {
   return (
     <HeroSection>
-      <HeroVideo src="./assets/hero.mp4" autoPlay muted></HeroVideo>
+      <HeroVideo src="./assets/hero.mp4" autoPlay></HeroVideo>
       <Container>
         <MainHeading>Our grass is always greener</MainHeading>
 

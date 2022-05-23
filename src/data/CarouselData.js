@@ -7,7 +7,7 @@ export const data = [
 	},
 	{
 		title: 'Our techniques ',
-		description: 'Learn more about our security systems to make sure your data is always safe',
+		description: 'Learn more about our techniques to make sure your grass is always kepy healthy',
 		image: './assets/techniques.png',
 	},
 	{
@@ -17,7 +17,7 @@ export const data = [
 	},
 	{
 		title: 'Our machines',
-		description: 'Find more about hardware and software used for your service',
+		description: 'Find more about machines used for your service',
 		image: './assets/machine.png',
 	},
 	{

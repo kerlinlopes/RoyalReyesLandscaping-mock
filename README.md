@@ -6,7 +6,7 @@ This is a mockup landscaping website
 | ----- | --- | ----------- |
 | Home | `/` | Homepage |
 | Pricing | `/pricing` | Pricing Page |
-| SignUp | `/signup/` | Sign Up form |
+| SignUp | `/signup` | Sign Up form |
 
 ## Components
 - Carousel
